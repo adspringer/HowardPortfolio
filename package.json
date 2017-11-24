@@ -14,17 +14,17 @@
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
   },
-  "description": "Natasha's Portfolio",
+  "description": "Howard's Portfolio",
   "main": "app.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/00tasha/WebsitePortfolio.git"
+    "url": "git+https://github.com/adspringer/HowardPortfolio.git"
   },
-  "author": "Natasha Springer",
+  "author": "Howard Springer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/00tasha/WebsitePortfolio/issues"
+    "url": "https://github.com/adspringer/HowardPortfolio/issues"
   },
-  "homepage": "https://github.com/00tasha/WebsitePortfolio#readme"
+  "homepage": "https://github.com/adspringer/HowardPortfolio#readme"
 }
